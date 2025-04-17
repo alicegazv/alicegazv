@@ -55,11 +55,11 @@
 ---
  📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="center"> 📊 Estatísticas do GitHub
 
-![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicegazv&show_icons=true&theme=radical&hide=prs)
+![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicegazv&show_icons=true&theme=radical&hide=prs)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicegazv&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicegazv&layout=compact&theme=radical)
+
 
 </div>
 
