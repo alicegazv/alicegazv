@@ -10,7 +10,7 @@
 
  ✨ Sobre mim
 
-🎓 Tecnóloga em Sistemas para Internet (3º semestre)  
+🎓 Tecnóloga em Sistemas para Internet (4º semestre)  
 🎓 Graduanda em Redes de Computadores  
 📍 Estagiando na Secretaria de Cultura e Economia Criativa do DF  
 🌱 Aprendendo Linux, Defesa de Redes (Cisco) e Sistemas Operacionais  
@@ -24,12 +24,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Soft skills: Organização, colaboração, pensamento crítico e empatia
+🚀 Projetos em Destaque
 
-📌 Projetos em Destaque
-🔸 [**QualifaDF**](https://github.com/seu-usuario/qualifadf) –    
-🔸 [**CAIU NA REDE**](https://github.com/seu-usuario/caiu-na-rede) – Projeto de cibersegurança com conteúdo informativo no Instagram  
-🔸 [**Estudos Java**](https://github.com/seu-usuario/estudos-java) – Resoluções de exercícios com foco no domínio da linguagem  
+- 🎨 [QUALIFICADF](https://github.com/alicegazv/QUALIFICADF)  
+  Prototipagem de site inclusivo com foco em design e acessibilidade
+
+- 🎮 [Game Mario](https://github.com/alicegazv/Game_mario)  
+  Projeto de desenvolvimento de jogo interativo com HTML, CSS e JavaScript
+
+- 🗂️ [IUPORT1](https://github.com/alicegazv/IUPORT1)  
+  Protótipo web institucional com práticas de estruturação de layout
 
 💡 Objetivos
 
@@ -40,25 +44,23 @@
 
  📬 Onde me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-- 📧 Email: seuemail@email.com  
-- 📸 [Instagram CAIU NA REDE](https://instagram.com/seu_projeto)
+- 💼 [LinkedIn](www.linkedin.com/in/alicegws)  
+- 📧 Email: aliceazevedo.ti@gmail.com
+- 📸 [Instagram CAIU NA REDE](https://www.instagram.com/projetocaiunarede/)
 
 <p align="center">
   🌙 "Persistência é o caminho do êxito." – Charles Chaplin
 </p>
 
 ---
-
-### 📊 GitHub Stats & Linguagens
+ 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide=prs)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicegazv&show_icons=true&theme=radical&hide=prs)
 
-![snake gif](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicegazv&layout=compact&theme=radical)
 
 </div>
+
 
